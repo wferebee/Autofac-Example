@@ -122,3 +122,5 @@ C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\
 C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\DemoStart\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\DemoStart\DependencyInjectionDemo-Start\ConsoleUI\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\DemoStart\DependencyInjectionDemo-Start\ConsoleUI\obj\Debug\ConsoleUI.exe.config
+C:\Users\willi\source\repos\Autofac-Example\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\willi\source\repos\Autofac-Example\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -4,3 +4,5 @@ C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\
 C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\DemoStart\DependencyInjectionDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
 C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\DemoStart\DependencyInjectionDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.dll
 C:\Users\William Ferebee\Desktop\Repos_and_More\Autofac\DependencyInjectionDemo\DemoStart\DependencyInjectionDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\willi\source\repos\Autofac-Example\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\willi\source\repos\Autofac-Example\DemoLibrary\obj\Debug\DemoLibrary.pdb
